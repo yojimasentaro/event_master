@@ -48,5 +48,11 @@ end
 gem 'pry-rails'
 gem 'compass-rails', '~> 2.0'
 gem 'sprockets', '2.11.0'
+gem 'devise'
+gem 'paperclip'
+gem 'kaminari'
+gem 'therubyracer'
+gem 'twitter-bootstrap-rails'
+gem 'bootstrap-material-design', '0.1.4'
 
 
