@@ -1,4 +1,3 @@
 class Event < ActiveRecord::Base
-  def index
-  end
+  belongs_to :user
 end
